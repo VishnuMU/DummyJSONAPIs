@@ -1,1 +1,4 @@
-{ "sample" : "test" }
+{
+    "isCheckedIn" : true,
+    "timeSinceCheckIn" : "250"
+}
